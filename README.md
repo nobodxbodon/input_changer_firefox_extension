@@ -1,5 +1,4 @@
 
-
 The rules will apply to input of single line or multiple line (`<input>` or `<textarea>`).<br/>
 
 Rules are in ${your_profile}/input_changer.sqlite.<br/>
@@ -23,4 +22,5 @@ Example:<br/>
   </tr>
 </table>
 <br/>
-After adding/deleting a rule, an existing page needs to be reloaded to make the change take effect.
+After adding/deleting a rule, an existing page needs to be reloaded to make the change take effect.<br/>
+This database file will be removed automatically when the extension is uninstalled.

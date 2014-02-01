@@ -1,0 +1,9 @@
+{
+  "name": "input_changer",
+  "title": "Input Changer",
+  "id": "jid1-KltLw80rfdIXBA",
+  "description": "Change the matches in your input with corresponding replacements. You can configure which pages you want to apply the replacing rules. Rules are in ${your_profile}/input_changer.sqlite",
+  "author": "Xuan Wu",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}

@@ -1,8 +1,4 @@
-/*const {Cc,Ci} = require("chrome");
-const alert = Cc['@mozilla.org/alerts-service;1']
-                  .getService(Ci.nsIAlertsService)
-                  .showAlertNotification;
-     */             
+           
 var onInputFocus = function(aEvent, patterns) {
 		//alert(null, "", "input focus:"+aEvent.target.id+" patterns:"+patterns.length);
 		var targetValue = aEvent.target.value;
